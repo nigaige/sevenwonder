@@ -17,3 +17,6 @@ During the antiquity, a rich period in science and social advancement (for the m
 Introduction : 
 We have three class : one for the city, one for the divinity and one for the troop. The city one is in order to manage cities as well as the number of soldiers and their ressources : an IA will choose how to manage these ressources. The troop one is for the soldiers who can be hurt, get old or die. The last one is for divinity who represents cities.  
 
+index :
+We create two divinities and two cities.The two divinities handle the reception and offering of their city.
+Troops are soldiers who can hurt themsleves and watch according to events : battle, aging. And cities handle ressources.
