@@ -7,6 +7,7 @@ git clone https://github.com/nigaige/sevenwonder.git
 
 THEN :
 yarn install
+
 node main.js
 
 
